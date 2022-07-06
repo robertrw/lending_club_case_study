@@ -8,4 +8,4 @@ Pesented a PPT to illustrate the major parameter to consider while giving loans 
 
 Contributors:
 * [Williams Robertradhamani](https://github.com/robertrw)
-* [Diya Biswas]
+* [Diya Biswas](https://github.com/biswasdiya)
